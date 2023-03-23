@@ -1,0 +1,4 @@
+CD (nome da pasta) - Entra no diretorio especificados
+GIT STATUS - Mostra o status do diretório
+GIT ADD . - Adiciona pastas novas criadas diretamente no diretorio do desktop
+
