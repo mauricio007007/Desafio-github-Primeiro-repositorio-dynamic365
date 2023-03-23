@@ -1,4 +1,9 @@
 CD (nome da pasta) - Entra no diretorio especificados
 GIT STATUS - Mostra o status do diretório
 GIT ADD . - Adiciona pastas novas criadas diretamente no diretorio do desktop
+GIT COMMIT -M "" : Para adicionar mensagem no diretorio online,
+
+ git config --global user.email "you@example.com" : configura o e-mail do comentario
+
+  git config --global user.name "Your Name"   : configura o nome do comentario
 
