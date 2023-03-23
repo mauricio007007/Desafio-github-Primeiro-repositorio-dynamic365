@@ -4,6 +4,8 @@ GIT ADD . - Adiciona pastas novas criadas diretamente no diretorio do desktop
 GIT COMMIT -M "" : Para adicionar mensagem no diretorio online,
 
  git config --global user.email "you@example.com" : configura o e-mail do comentario
-
-  git config --global user.name "Your Name"   : configura o nome do comentario
-
+ git config --global user.name "Your Name"   : configura o nome do comentario
+ 
+ GIT CLONE: Cria o diretorio web no desktop.
+ GIT PUSH ORIGIN MAIN: Envia os dados para web e atualiza.
+ GIT PULL ORIGIN MAIN: Busca os dados na web.
